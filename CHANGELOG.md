@@ -1,6 +1,11 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/jetstream/compare/v5.3.4...5.x)
+## [Unreleased](https://github.com/laravel/jetstream/compare/v5.3.5...5.x)
+
+## [v5.3.5](https://github.com/laravel/jetstream/compare/v5.3.4...v5.3.5) - 2025-02-20
+
+* Add return types to banner functions by [@simon-tma](https://github.com/simon-tma) in https://github.com/laravel/jetstream/pull/1565
+* Supports Laravel 12 and Inertia.js 2 by [@crynobone](https://github.com/crynobone) in https://github.com/laravel/jetstream/pull/1564
 
 ## [v5.3.4](https://github.com/laravel/jetstream/compare/v5.3.3...v5.3.4) - 2024-12-10
 
